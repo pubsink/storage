@@ -1,2 +1,2 @@
 # PubSink Storage
-Google Cloud Storage adapter for PubSink
+Firebase Storage adapter for PubSink
